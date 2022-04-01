@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rs-arturo
+- 👋 Hi, I’m @ArturReyes
 - 👀 I’m interested in ... making beautiful web experiences
 - 🌱 I’m currently learning ... React
 - 📫 How to reach me ... rs.arturo@icloud.com
