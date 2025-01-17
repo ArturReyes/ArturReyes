@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArturReyes
-- 👀 I’m interested in ... making beautiful web experiences
-- 🌱 I’m currently learning ... React
+- 👀 Crafting web experiences with care. Exploring design, UX, and interactivity.
+- 
 - 📫 How to reach me ...  hi@arturoreyes.me
 
 <!---
